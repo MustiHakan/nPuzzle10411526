@@ -6,9 +6,8 @@ A simple N-Puzzle game for Android. Build for the course App Studio at Universit
 ![Alt text](http://i.imgur.com/p5UJqy8.png)
 
 ## List of APIs and Frameworks
-
 - Bitmap
--
+- Others
 
 ## The database
 The saved game will be stored within a file, without using a database. This will contain the following:
