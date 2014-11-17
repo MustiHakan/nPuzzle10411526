@@ -14,8 +14,8 @@ A simple N-Puzzle game for Android. Build for the course App Studio at Universit
 - GameLogic `contains the game`
  - scramble `scramble the gameboard after showing it for 3 seconds`
  - checkValidMove `returns a boolean`
- - moveTile `if previous is true then return the board with the moved tile`
- - wincheck `Checks if the game is over`
+ - moveTile `if previous is true then return the board with the moved tile and count 1 to numberMoves`
+ - wincheck `checks if the game is over`
 - ResetGame ``
 
 ## List of APIs
