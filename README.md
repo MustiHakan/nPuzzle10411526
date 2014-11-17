@@ -13,7 +13,6 @@ A simple N-Puzzle game for Android. Build for the course App Studio at Universit
  - savegame `Saves game onPause`
 - GameLogic `contains the game`
 - Movenumber `numnber of moves`
-
 - BitmapFactory `for image cutting/cropping/resizing`
 - Listview `for showing possible images`
 - Tableview `for the actual gameboard`
