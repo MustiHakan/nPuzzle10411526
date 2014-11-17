@@ -5,15 +5,15 @@ A simple N-Puzzle game for Android. Build for the course App Studio at Universit
 ## The UI
 ![Alt text](http://i.imgur.com/p5UJqy8.png)
 
-### Explanation
-
-
-
-
+## List of classes
+- ImageChoice `returns the chosenImageid`
+- LevelChoice `returns the difficultyid`
+- GameLogic `contains the game`
+- Movenumber `Numnber of moves`
 
 ## List of APIs and Frameworks
-- Bitmap
-- Others
+- Bitmaps (for image cutting/cropping/resizing)
+- Tableview (for the actual gameboard)
 
 ## The database
 The saved game will be stored with the _Shared Preference_ method, without using a database. This will contain the following:
