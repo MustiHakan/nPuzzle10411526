@@ -7,10 +7,10 @@ A simple N-Puzzle game for Android. Build for the course App Studio at Universit
 
 ## List of ingredients
 - Gamedata
--- ImageChoice `returns the chosenImageid`
--- LevelChoice `returns the difficultyid`
--- wincheck `Checks if the game is over`
--- savegame `Saves game onPause`
+ - ImageChoice `returns the chosenImageid`
+ - LevelChoice `returns the difficultyid`
+ - wincheck `Checks if the game is over`
+ - savegame `Saves game onPause`
 - GameLogic `contains the game`
 - Movenumber `numnber of moves`
 
